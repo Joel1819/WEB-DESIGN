@@ -1,0 +1,179 @@
+.cabeza {
+  position: fixed;
+  display: inline-block;
+  top: 0;
+  left: 0;
+  background-color: #b81b1b;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  width: 100%;
+}
+.nombre-empresa {
+  display: inline-block;
+  margin-top: 30px;
+  margin-left: 30px;
+  vertical-align: middle;
+  color: #333;
+  font-family: "Arial", sans-serif;
+  font-size: 38px;
+  font-weight: bold;
+}
+.navegacion {
+  display: block;
+  float: right;
+  margin-right: 20px;
+}
+.links {
+  text-decoration: none;
+  color: #007bff;
+  font-size: 18px;
+  margin-left: 15px;
+}
+.links:hover {
+  text-decoration: underline;
+  color: #000000;
+  margin-left: 15px;
+  text-decoration: none;
+}
+.icono {
+  width: 60px;
+  height: 60px;
+  vertical-align: middle;
+  margin-left: 10px;
+  border-radius: 8px;
+  margin-left: 40px;
+}
+.icono-inicio {
+  display: inline-block;
+  right: 0;
+  width: 40px;
+  height: 40px;
+  margin-top: 10px;
+  vertical-align: middle;
+  border-radius: 8px;
+  text-decoration: none;
+}
+.link-icono {
+  display: inline-block;
+  text-decoration: none;
+}
+.bienvenida {
+  margin-top: 140px;
+  font-family: "Arial", sans-serif;
+  margin-right: 20px;
+  margin-left: 20px;
+  padding: 40px;
+  box-shadow: 0 6px 8px rgba(0, 0, 0, 0.1);
+  background-color: #f2f2f2;
+  border-radius: 8px;
+}
+.pie-de-pagina {
+  text-align: center;
+  font-family: "Arial", sans-serif;
+  background-color: #b81b1b;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  margin-left: 0;
+  margin-right: 0;
+  bottom: 0;
+  padding: 5px;
+  width: 99%;
+}
+.parrafo {
+  display: block;
+  margin-left: 450px;
+  margin-top: 0;
+  font-size: 18px;
+  color: #333333;
+  line-height: 1.6;
+}
+.titulo-bienbenida {
+  margin-top: 0;
+  margin-left: 20px;
+  font-size: 36px;
+  color: #b81b1b;
+  display: inline-block;
+}
+.imagen-bienvenida {
+  display: inline;
+  margin-top: 0;
+  float: left;
+  width: 30%;
+  height: auto;
+  border-radius: 8px;
+  align-items: right;
+}
+.inicio-de-sesion {
+  display: inline-block;
+  float: right;
+  margin-top: 80px;
+  margin-right: 20px;
+  font-size: 18px;
+  color: #333;
+  font-family: "Arial", sans-serif;
+  font-weight: bold;
+}
+.servicios {
+  margin-top: 40px;
+  margin-right: 20px;
+  margin-left: 20px;
+  padding: 40px;
+  box-shadow: 0 6px 8px rgba(0, 0, 0, 0.1);
+  background-color: #f2f2f2;
+  border-radius: 8px;
+  text-decoration: none;
+}
+.titulo-servicios {
+  display: inline-block;
+  margin-top: 0;
+  font-size: 26px;
+  color: #b81b1b;
+  display: block;
+  text-align: center;
+}
+
+.imagen-lista-servicios {
+  display: inline-block;
+  padding: 6px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  margin: 5px;
+  font-weight: bold;
+  box-shadow: 0 6px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  background-color: #e6e6e6;
+  text-decoration: none;
+}
+.titulo {
+  text-decoration: none;
+  margin-top: 30px;
+  font-size: 22px;
+  color: #000000;
+  font-weight: bold;
+  text-align: center;
+}
+.imagen {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90px;
+  height: 90px;
+  vertical-align: middle;
+}
+.lista-servicios {
+  display: block;
+  list-style-type: none;
+  padding: 5px;
+  margin: 0;
+}
+.contacto {
+  margin: 20px;
+
+  padding: 40px;
+  box-shadow: 0 6px 8px rgba(0, 0, 0, 0.1);
+  background-color: #f2f2f2;
+  border-radius: 8px;
+}
+.parrafos {
+  display: inline-block;
+  font-size: 20px;
+  color: #333333;
+}
